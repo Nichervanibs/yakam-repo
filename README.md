@@ -1,2 +1,2 @@
 # yakam-repo
-yakam repon bu ferbun drosti akayn 
+yakam repo bu ferbun drosti akayn 
